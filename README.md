@@ -16,8 +16,13 @@ ID 案
 
 * スイート・ハートキャッチ時代の DCD 事情調査
 * 後からのプロモーションカード追加に対応出来る ID の考察
-* このリポジトリの著作権ってどうなるの…？
 
 ## 参考
 
 * [データカードダス プリキュアオールスターズ](http://precure-live.com/allstars/)
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright © 2014 ka
